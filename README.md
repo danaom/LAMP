@@ -1,3 +1,3 @@
 # LAMP
 web,php,mariadb
-This is my fird doc
+This is my first doc
